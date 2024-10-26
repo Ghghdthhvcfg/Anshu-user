@@ -1,5 +1,5 @@
 {
-    "name": "Zaid Userbot",
+    "name": "ANSHU USERBOT",
     "description": "An first Telegram Userbot with multi Clients for Spamming or Mass.",
     "keywords": ["pyrogram", "userbot"],
     "repository": "https://github.com/ITZ-ZAID/Zaid-Userbot",
@@ -9,7 +9,7 @@
             "description": "fill with the telethon session string from https://replit.com/@Itz-zaid/Generator",
             "required": true
         },
-        "MONGO_URL": {
+        "MONGO_URL": {6034090359}
             "description": "Fill there an mongo database from mongodb.com",
             "required": true,
             "value": ""
@@ -19,7 +19,7 @@
             "required": true,
             "value": "1234567890 1234567890"
         },
-        "OWNER_ID": {
+        "OWNER_ID": {6034090359}
             "description": "Fill there your I'd go to @Zaid2_Robot pm and type /id",
             "required": true,
             "value": "1234567890"
